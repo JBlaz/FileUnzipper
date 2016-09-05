@@ -1,0 +1,12 @@
+c:\users\jase\documents\visual studio 2013\Projects\FileZip\FileZip\bin\Debug\FileZip.exe.config
+c:\users\jase\documents\visual studio 2013\Projects\FileZip\FileZip\bin\Debug\FileZip.exe
+c:\users\jase\documents\visual studio 2013\Projects\FileZip\FileZip\bin\Debug\FileZip.pdb
+c:\users\jase\documents\visual studio 2013\Projects\FileZip\FileZip\obj\Debug\FileZip.csprojResolveAssemblyReference.cache
+c:\users\jase\documents\visual studio 2013\Projects\FileZip\FileZip\obj\Debug\FileZip.exe
+c:\users\jase\documents\visual studio 2013\Projects\FileZip\FileZip\obj\Debug\FileZip.pdb
+C:\Users\Bleazard\OneDrive\Documents\Visual Studio Projects\Projects\FileZip\FileZip\bin\Debug\FileZip.exe.config
+C:\Users\Bleazard\OneDrive\Documents\Visual Studio Projects\Projects\FileZip\FileZip\obj\Debug\FileZip.exe
+C:\Users\Bleazard\OneDrive\Documents\Visual Studio Projects\Projects\FileZip\FileZip\obj\Debug\FileZip.pdb
+C:\Users\Bleazard\OneDrive\Documents\Visual Studio Projects\Projects\FileZip\FileZip\bin\Debug\FileZip.exe
+C:\Users\Bleazard\OneDrive\Documents\Visual Studio Projects\Projects\FileZip\FileZip\bin\Debug\FileZip.pdb
+C:\Users\Bleazard\OneDrive\Documents\Visual Studio Projects\Projects\FileZip\FileZip\obj\Debug\FileZip.csprojResolveAssemblyReference.cache
